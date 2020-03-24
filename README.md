@@ -1,2 +1,2 @@
 # Hekki-EclipseGIT
-Preizkus IDE v ECLIS u
+Preizkus IDE v ECLIPSE
