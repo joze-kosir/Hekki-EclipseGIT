@@ -1,2 +1,2 @@
-# Hekki-EclipseGIT
+# HelloEclipseGIT
 Preizkus IDE v ECLIPSE
